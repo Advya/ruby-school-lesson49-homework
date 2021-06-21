@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  get 'weclome/index'
+  
   resources :blogposts
   resources :images
   resources :links
